@@ -112,7 +112,7 @@ Adotar essa abordagem dupla — separação técnica clara na arquitetura intern
     - *Opção 2:* Migrar para um Banco Múltiplo ou Comercial para oferecer um portfólio completo de produtos bancários, incluindo contas correntes e poupança.
   
 - **Modelo Organizacional para Arquitetura Corporativa:**
-  - Envolvimento de todos os stakeholders relevantes, incluindo a equipe de arquitetura, liderada por Francis Santos, e os representantes regulatórios para avaliar as opções de migração de licença e impacto organizacional.
+  - Envolvimento de todos os stakeholders relevantes, incluindo a equipe de arquitetura, liderada por FS, e os representantes regulatórios para avaliar as opções de migração de licença e impacto organizacional.
 
 - **Governança da Arquitetura:**
   - Definida uma estrutura de governança flexível que permita mudanças rápidas com base na evolução do cenário regulatório e decisões estratégicas.
