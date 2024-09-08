@@ -111,7 +111,7 @@ Adotar essa abordagem dupla — separação técnica clara na arquitetura intern
     - *Opção 1:* Expandir as capacidades como SCFI, focando em produtos digitais inovadores e serviços complementares que não envolvem contas correntes.
     - *Opção 2:* Migrar para um Banco Múltiplo ou Comercial para oferecer um portfólio completo de produtos bancários, incluindo contas correntes e poupança.
   
-- **Modelo Organizacional para Arquitetura Empresarial:**
+- **Modelo Organizacional para Arquitetura Corporativa:**
   - Envolvimento de todos os stakeholders relevantes, incluindo a equipe de arquitetura, liderada por Francis Santos, e os representantes regulatórios para avaliar as opções de migração de licença e impacto organizacional.
 
 - **Governança da Arquitetura:**
