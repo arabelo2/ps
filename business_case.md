@@ -45,7 +45,7 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 
 **Tecnologias Envolvidas:**
 - **Front-end:** Desenvolvimento utilizando frameworks modernos como React ou Angular para garantir uma experiência de usuário responsiva e intuitiva.
-- **Back-end:** Serviços de back-end robustos hospedados na nuvem, utilizando plataformas como AWS ou Azure para garantir escalabilidade e alta disponibilidade.
+- **Back-end:** Serviços de back-end robustos hospedados na nuvem, utilizando plataforma como GCP da Google para garantir escalabilidade e alta disponibilidade.
 - **Banco de Dados:** Sistemas de banco de dados relacionais e não relacionais para gestão eficiente de grandes volumes de dados transacionais e não transacionais.
 - **Integrações:** Uso de microserviços para facilitar a integração de sistemas legados e novas funcionalidades, permitindo flexibilidade e expansão futura.
 
