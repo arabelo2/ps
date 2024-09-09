@@ -135,7 +135,7 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 - **Concorrência de Mercado:** Surgimento de novas tecnologias ou plataformas concorrentes. **Mitigação:** Continuar inovando e diferenciando a plataforma no mercado.
 - **Churn Rate:** Risco de desistência dos usuários após a adoção inicial. **Mitigação:** Desenvolver um programa robusto de fidelidade e retenção.
 
-### 7. Análise de ROI (Revisada com Receita Conservadora)
+### 7. Análise de ROI
 
 **Custos Iniciais e Recorrentes:**
 - **Investimento Inicial:** R$ 46,5 milhões.
