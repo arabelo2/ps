@@ -167,5 +167,3 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 A análise revisada indica um ROI significativamente negativo no primeiro ano e um período de payback de mais de quatro anos. Isso sugere que, embora a plataforma possa oferecer benefícios estratégicos e operacionais a longo prazo, o retorno financeiro imediato é desafiador e exigirá uma gestão cuidadosa e potencialmente mais investimentos para alcançar a rentabilidade. 
 
 Essa visão conservadora reflete melhor os riscos associados ao lançamento de uma nova plataforma digital no mercado competitivo atual e sublinha a importância de uma estratégia bem planejada para crescimento e retenção de clientes.
-
-Se estas projeções ajustadas atenderem às suas expectativas, podemos finalizar esta análise ou proceder com ajustes adicionais para refletir outros cenários ou estratégias potenciais.
