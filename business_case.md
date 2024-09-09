@@ -202,7 +202,7 @@ Desenvolver e lançar a plataforma de conta digital da Tupi Finance S/A dentro d
 - Considerando os riscos e o processo necessário para a integração eficaz de múltiplos fornecedores, uma reavaliação do prazo de 6 meses será realizada ao final do segundo mês. Se necessário, ajustes no cronograma ou no escopo do projeto serão propostos para garantir a entrega de uma solução robusta e funcional.
 
 **4. Critérios de Sucesso e KPIs**
-Para garantir que o lançamento da plataforma de conta digital da Tupi Finance S/A atinja os objetivos desejados e esteja alinhado com as melhores práticas do setor, os seguintes KPIs serão adotados:
+**Objetivo:** Para garantir que o lançamento da plataforma de conta digital da Tupi Finance S/A atinja os objetivos desejados e esteja alinhado com as melhores práticas do setor, os seguintes KPIs serão adotados:
 
 - **Taxa de Adoção de Clientes:** Medida pelo número de novos registros comparado ao número total de visitantes no site/app. Este é um indicador crítico de quão eficazmente a plataforma está atraindo novos usuários (Fonte: Benchmarks de adoção para fintechs, como reportado por estudos da Deloitte e EY).
 
