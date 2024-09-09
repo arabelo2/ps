@@ -138,37 +138,40 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 ### 7. Análise de ROI
 
 **Custos Iniciais e Recorrentes:**
-- **Investimento Inicial:** R$ 46,5 milhões.
-- **Custos Operacionais Anuais:** R$ 9,5 milhões, aumentando 5% anualmente devido ao aumento de licenças e renovação de contratos.
+- **Investimento Inicial (CAPEX):** R$ 46,5 milhões para desenvolvimento de software, aquisição de hardware, e configuração da infraestrutura inicial.
+- **Custos Operacionais Anuais (OPEX):** R$ 9,5 milhões, com previsão de aumento de 5% anualmente para manutenção, suporte e outras despesas operacionais.
 
 **Projeções de Receita com ARPU Mínimo:**
-- **Crescimento de Clientes:** 100 mil novos clientes no primeiro ano, com uma base inicial de 0 (zero) cliente.
-- **Receita Média por Cliente (ARPU):** Considerando o ARPU mínimo de R$ 180, baseado na receita gerada por contas digitais básicas sem cobranças adicionais (Fonte: Análise de mercado para fintechs e bancos digitais).
-- **Churn Rate:** 15% ao ano, que é uma média de mercado para novas fintechs (Fonte: Relatórios de indústria sobre fintechs).
+- **Crescimento de Clientes:** 100 mil novos clientes no primeiro ano.
+- **Receita Média por Cliente (ARPU):** R$ 180, baseada em receitas de contas digitais básicas (Fonte: Estudo de mercado para fintechs e bancos digitais).
+- **Churn Rate:** 15% ao ano, refletindo a média para novas fintechs (Fonte: Relatórios de indústria).
 
 **Riscos e Custos Adicionais:**
-- **Perdas por Fraude:** 1% da receita total, com base nas médias de fraude para o setor de serviços financeiros digitais (Fonte: Relatório anual de segurança cibernética financeira).
-- **Inadimplência:** Estimativa de 2% do crédito concedido, alinhado com as normas do mercado financeiro (Fonte: Relatório de crédito e inadimplência do Banco Central do Brasil).
-- **Recuperação de Crédito:** Recuperação estimada de 30% das perdas inadimplentes (Fonte: Médias de recuperação de crédito reportadas por agências de cobrança).
+- **Perdas por Fraude:** Estimativa de 1% da receita total, baseada nas médias do setor (Fonte: Relatório de segurança cibernética financeira).
+- **Inadimplência:** Previsão de 2% do crédito concedido, com recuperação de 30% das perdas (Fonte: Banco Central do Brasil e agências de cobrança).
+
+**VPL (Valor Presente Líquido):**
+- **Fluxos de Caixa Futuros:** Projeções baseadas no crescimento do número de usuários e ARPU ajustado.
+- **Taxa de Desconto:** 10% para refletir o custo do capital.
+- **Cálculo de VPL:** Inclui todos os fluxos de caixa futuros descontados, subtraindo o investimento inicial.
 
 **Cálculo do ROI Ajustado:**
 1. **Benefícios Totais no Primeiro Ano Ajustados:**
    - Receita de novos clientes: 100 mil clientes x R$ 180 = R$ 18 milhões.
-   - Dedução de churn: 15% de R$ 18 milhões = R$ 2,7 milhões.
-   - Receita líquida após churn: R$ 15,3 milhões.
-   - Ajuste para fraude e inadimplência: R$ 15,3 milhões - (1% de R$ 15,3 milhões + 2% de R$ 18 milhões - 30% de recuperação de R$ 0,36 milhões) = R$ 14,37 milhões aproximadamente.
-
+   - Dedução por churn: 15% de R$ 18 milhões = R$ 2,7 milhões.
+   - Receita líquida após churn, fraude e inadimplência: Aproximadamente R$ 14,37 milhões.
+   
 2. **ROI após um ano ajustado:**
    - ROI = (Benefícios Ajustados - Custos) / Custos
    - ROI = (R$ 14,37 milhões - R$ 46,5 milhões) / R$ 46,5 milhões
    - ROI = -R$ 32,13 milhões / R$ 46,5 milhões
-   - ROI = -69.1%
+   - ROI = -69.1%  
 
 **Análise de Payback Ajustada:**
-- **Período de Payback =** R$ 46,5 milhões / R$ 14,37 milhões = 3.24 anos.
+- **Período de Payback:** Calculado como o tempo necessário para que o total de benefícios cubra os custos iniciais, estimado em 3.24 anos.
 
 **Discussão:**
-Utilizando um ARPU mínimo e conservador, a análise de ROI ilustra um retorno significativamente negativo no primeiro ano com um período de payback estendido de mais de três anos. Essa projeção destaca os desafios de lançar uma plataforma com uma estratégia de baixo custo de aquisição de clientes, exigindo uma gestão cuidadosa e estratégias inovadoras de monetização para melhorar o retorno financeiro.
+Esta análise detalhada de ROI integra todos os elementos financeiros necessários para avaliar a viabilidade do projeto. Utilizando uma abordagem conservadora para ARPU e incorporando riscos financeiros como fraude e inadimplência, a projeção mostra um desafio significativo para alcançar um retorno positivo no curto prazo. A inclusão do VPL oferece uma perspectiva de longo prazo, crucial para decisões estratégicas sobre o projeto.
 
 ### 8. Plano de Implementação
 
