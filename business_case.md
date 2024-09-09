@@ -112,7 +112,7 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 - **Orçamento Disponível:** R$ 30 milhões.
 - **Déficit Orçamentário:** R$ 16,5 milhões para cobrir todos os custos iniciais propostos.
 
-### 6. Análise de Riscos (Consolidada)
+### 6. Análise de Riscos
 
 **Riscos Técnicos:**
 - **Integração de Sistemas:** Desafios na integração de novas tecnologias com sistemas legados, o que pode causar problemas de compatibilidade e performance. **Mitigação:** Planejar testes rigorosos e contar com uma equipe técnica dedicada para resolver problemas de integração.
