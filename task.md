@@ -674,7 +674,7 @@ A decisão de manter a licença SCFI é apropriada se a Tupi Finance S/A busca u
 ### **Conclusão**
 Ao completar a Fase B com um planejamento detalhado e um fluxo de valor bem definido, a Tupi Finance S/A se posiciona para implementar uma arquitetura robusta que suporta tanto os requisitos de negócios atuais quanto futuras expansões. Esta fase não apenas cumpre os requisitos estratégicos, mas também estabelece uma fundação sólida para a evolução contínua e sustentável da Tupi Finance S/A.
 
-### **Fase C - Arquitetura de Sistemas de Informação
+### **Fase C - Arquitetura de Sistemas de Informação**
 
 #### **Objetivos:**
 - Desenvolver as Arquiteturas de Sistemas de Informação (Dados e Aplicações) que habilitem a Arquitetura de Negócios e suportem a Visão Arquitetônica, endereçando o Statement of Architecture Work e as preocupações dos stakeholders.
@@ -714,7 +714,7 @@ Ao completar a Fase B com um planejamento detalhado e um fluxo de valor bem defi
 ### **Conclusão:**
 Esta versão consolidada da Fase C fornece uma visão abrangente e detalhada de como a Tupi Finance S/A irá desenvolver e implementar suas arquiteturas de sistemas de informação, assegurando que estejam alinhadas com as metas estratégicas e prontas para avançar para a Fase D - Arquitetura de Tecnologia. Esta abordagem garante uma transição suave e uma implementação eficaz das estratégias planejadas.
 
-### **Fase D - Arquitetura de Tecnologia **
+### **Fase D - Arquitetura de Tecnologia**
 
 #### **Objetivos:**
 - Desenvolver a Arquitetura de Tecnologia que suportará a Arquitetura de Sistemas de Informação (Dados e Aplicações) e a Arquitetura de Negócios.
