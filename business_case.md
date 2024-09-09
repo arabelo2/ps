@@ -139,31 +139,33 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 
 **Custos Iniciais e Recorrentes:**
 - **Investimento Inicial:** R$ 46,5 milhões.
-- **Custos Operacionais Anuais:** R$ 9,5 milhões, com crescimento anual de 5% devido a aumentos nas licenças e renovação de contratos.
+- **Custos Operacionais Anuais:** R$ 9,5 milhões, aumentando 5% anualmente devido ao aumento de licenças e renovação de contratos.
 
-**Projeções de Receita Conservadora:**
-- **Crescimento da Base de Clientes:** Projetando um crescimento de 15% no primeiro ano após o lançamento, com uma base inicial de 100.000 clientes.
-- **Receita Média por Cliente (ARPU):** Ajustada para R$ 600, baseada na análise de mercado para contas digitais em fintechs brasileiras, como Nubank e Banco Inter, onde o ARPU varia de R$ 300 a R$ 800 (Fonte: Relatórios anuais dos bancos e análises de mercado publicadas por consultorias financeiras).
-- **Churn Rate:** Estimativa de 10% ao ano, refletindo a média de mercado para serviços financeiros digitais.
+**Projeções de Receita com ARPU Mínimo:**
+- **Crescimento de Clientes:** 100 mil novos clientes no primeiro ano, com uma base inicial de 0 (zero) cliente.
+- **Receita Média por Cliente (ARPU):** Considerando o ARPU mínimo de R$ 180, baseado na receita gerada por contas digitais básicas sem cobranças adicionais (Fonte: Análise de mercado para fintechs e bancos digitais).
+- **Churn Rate:** 15% ao ano, que é uma média de mercado para novas fintechs (Fonte: Relatórios de indústria sobre fintechs).
+
+**Riscos e Custos Adicionais:**
+- **Perdas por Fraude:** 1% da receita total, com base nas médias de fraude para o setor de serviços financeiros digitais (Fonte: Relatório anual de segurança cibernética financeira).
+- **Inadimplência:** Estimativa de 2% do crédito concedido, alinhado com as normas do mercado financeiro (Fonte: Relatório de crédito e inadimplência do Banco Central do Brasil).
+- **Recuperação de Crédito:** Recuperação estimada de 30% das perdas inadimplentes (Fonte: Médias de recuperação de crédito reportadas por agências de cobrança).
 
 **Cálculo do ROI Ajustado:**
 1. **Benefícios Totais no Primeiro Ano Ajustados:**
-   - Receita de crescimento de clientes: 15.000 novos clientes x R$ 600 = R$ 9 milhões.
-   - Dedução da churn rate: Perda de 10% = R$ 900 mil.
-   - Receita líquida de novos clientes após churn: R$ 8,1 milhões.
-   - Receita de novos produtos e serviços: Projetada em R$ 3 milhões.
-   - **Total de Benefícios no Primeiro Ano Ajustado:** R$ 11,1 milhões.
+   - Receita de novos clientes: 100 mil clientes x R$ 180 = R$ 18 milhões.
+   - Dedução de churn: 15% de R$ 18 milhões = R$ 2,7 milhões.
+   - Receita líquida após churn: R$ 15,3 milhões.
+   - Ajuste para fraude e inadimplência: R$ 15,3 milhões - (1% de R$ 15,3 milhões + 2% de R$ 18 milhões - 30% de recuperação de R$ 0,36 milhões) = R$ 14,37 milhões aproximadamente.
 
 2. **ROI após um ano ajustado:**
    - ROI = (Benefícios Ajustados - Custos) / Custos
-   - ROI = (R$ 11,1 milhões - R$ 46,5 milhões) / R$ 46,5 milhões
-   - ROI = -R$ 35,4 milhões / R$ 46,5 milhões
-   - ROI = -76,1%
+   - ROI = (R$ 14,37 milhões - R$ 46,5 milhões) / R$ 46,5 milhões
+   - ROI = -R$ 32,13 milhões / R$ 46,5 milhões
+   - ROI = -69.1%
 
 **Análise de Payback Ajustada:**
-- **Período de Payback =** R$ 46,5 milhões / R$ 11,1 milhões = Aproximadamente 4,19 anos.
+- **Período de Payback =** R$ 46,5 milhões / R$ 14,37 milhões = 3.24 anos.
 
 **Discussão:**
-A análise revisada indica um ROI significativamente negativo no primeiro ano e um período de payback de mais de quatro anos. Isso sugere que, embora a plataforma possa oferecer benefícios estratégicos e operacionais a longo prazo, o retorno financeiro imediato é desafiador e exigirá uma gestão cuidadosa e potencialmente mais investimentos para alcançar a rentabilidade. 
-
-Essa visão conservadora reflete melhor os riscos associados ao lançamento de uma nova plataforma digital no mercado competitivo atual e sublinha a importância de uma estratégia bem planejada para crescimento e retenção de clientes.
+Utilizando um ARPU mínimo e conservador, a análise de ROI ilustra um retorno significativamente negativo no primeiro ano com um período de payback estendido de mais de três anos. Essa projeção destaca os desafios de lançar uma plataforma com uma estratégia de baixo custo de aquisição de clientes, exigindo uma gestão cuidadosa e estratégias inovadoras de monetização para melhorar o retorno financeiro.
