@@ -101,14 +101,17 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 - **Treinamento e Adaptação Organizacional:** R$ 1,5 milhão para garantir que a equipe esteja bem preparada para operar as novas tecnologias.
 - **Marketing e Lançamento:** R$ 4 milhões destinados a campanhas para introduzir a plataforma no mercado, incluindo publicidade online, eventos e promoções.
 
-**Custos Operacionais e de Manutenção:**
-- **Manutenção Contínua e Suporte:** R$ 2 milhões anuais, abrangendo atualizações de segurança, suporte técnico e manutenção regular.
-- **Operações Diárias:** R$ 3,5 milhões anuais, cobrindo custos com energia, espaço de data center, monitoramento de rede e gestão de dados.
-  - **Sub-total de Custos Recorrentes:** R$ 5,5 milhões anuais.
+**Custos Recorrentes Anuais (OPEX):**
+Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A são detalhados como segue, totalizando R$ 9,5 milhões por ano:
+- **Manutenção e Suporte de Software:** R$ 2,8 milhões.
+- **Operações de TI e Infraestrutura:** R$ 2,2 milhões.
+- **Despesas com Pessoal de TI:** R$ 1,8 milhões.
+- **Marketing e Aquisição de Clientes:** R$ 1,4 milhões.
+- **Despesas Administrativas e Gerais:** R$ 1,3 milhões.
 
 **Resumo e Análise de Custos:**
 - **Total de Custos Iniciais:** R$ 46,5 milhões (incluindo desenvolvimento, tecnologia e lançamento).
-- **Custos Recorrentes Anuais:** R$ 5,5 milhões (excluindo custos de cloud que já estão calculados separadamente).
+- **Custos Recorrentes Anuais:** R$ 9,5 milhões (excluindo custos de cloud que já estão calculados separadamente).
 - **Orçamento Disponível:** R$ 30 milhões.
 - **Déficit Orçamentário:** R$ 16,5 milhões para cobrir todos os custos iniciais propostos.
 
