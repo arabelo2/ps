@@ -168,10 +168,10 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
    - ROI = (Benefícios Ajustados - Custos) / Custos
    - ROI = (R$ 14,37 milhões - R$ 46,5 milhões) / R$ 46,5 milhões
    - ROI = -R$ 32,13 milhões / R$ 46,5 milhões
-   - ROI = -69.1%  
+   - ROI = -69,1%  
 
 **Análise de Payback Ajustada:**
-- **Período de Payback:** Calculado como o tempo necessário para que o total de benefícios cubra os custos iniciais, estimado em 3.24 anos.
+- **Período de Payback:** Calculado como o tempo necessário para que o total de benefícios cubra os custos iniciais, estimado em 3,24 anos.
 
 **Discussão:**
 Esta análise detalhada de ROI integra todos os elementos financeiros necessários para avaliar a viabilidade do projeto. Utilizando uma abordagem conservadora para ARPU e incorporando riscos financeiros como fraude e inadimplência, a projeção mostra um desafio significativo para alcançar um retorno positivo no curto prazo. A inclusão do VPL oferece uma perspectiva de longo prazo, crucial para decisões estratégicas sobre o projeto.
@@ -184,7 +184,7 @@ Desenvolver e lançar a plataforma de conta digital da Tupi Finance S/A dentro d
 **1. Fases de Desenvolvimento Ajustadas para Riscos de Fornecedores:**
 - **Pesquisa e Planejamento (Mês 1):**
   - Finalização das especificações técnicas e de negócios.
-  - Início do processo de cotação e seleção de fornecedores, incluindo a solicitação de propostas de pelo menos três fornecedores para cada serviço conforme política de procurement.
+  - Início do processo de cotação e seleção de fornecedores, incluindo a solicitação de propostas de pelo menos 3 fornecedores para cada serviço conforme política de procurement.
   
 - **Design e Prototipagem (Mês 2):**
   - Avaliação das propostas e seleção final dos fornecedores.
