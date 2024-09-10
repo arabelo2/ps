@@ -297,7 +297,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 ### **Mapeamento dos Service Domains BIAN - Opção SCFI**
 
 #### **Jornada de Abertura de Conta de Pagamento:**
-1. **Party Data Management**
+1. **Party Reference Data Directory**
 - Coleta e gerenciamento de informações dos clientes (KYC, validação de identidade) para abertura da conta.
    
 2. **Customer Offer and Agreement**
@@ -344,7 +344,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 ### **Mapeamento dos Service Domains BIAN - Opção Banco Múltiplo ou Comercial**
 
 #### **Jornada de Abertura de Conta Corrente ou Poupança:**
-1. **Party Data Management**
+1. **Party Reference Data Directory**
 - Coleta, verificação e gestão de dados dos clientes, incluindo documentos de identidade, informações financeiras e análise de risco.
    
 2. **Customer Offer and Agreement**
@@ -410,7 +410,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 1. **Gestão de Relacionamento com o Cliente (Customer Relationship Management)**
 - Domínios de Serviço:
-   - **Party Data Management**: Gerenciamento de dados cadastrais e informações do cliente, incluindo conformidade com **LGPD**.
+   - **Party Reference Data Directory**: Gerenciamento de dados cadastrais e informações do cliente, incluindo conformidade com **LGPD**.
    - **Customer Relationship Management**: Suporte contínuo ao cliente e manutenção do relacionamento.
    - **Customer Access Entitlement**: Gestão de permissões de clientes, incluindo acesso a produtos e serviços.
 
@@ -446,7 +446,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 1. **Gestão de Relacionamento com o Cliente (Customer Relationship Management)**
 - Domínios de Serviço:
-   - **Party Data Management**: Coleta e gerenciamento de dados dos clientes, incluindo conformidade com **LGPD**.
+   - **Party Reference Data Directory**: Coleta e gerenciamento de dados dos clientes, incluindo conformidade com **LGPD**.
    - **Customer Relationship Management**: Gerenciamento de suporte ao cliente e manutenção de relacionamento.
    - **Customer Access Entitlement**: Controle de permissões de clientes para acesso a produtos e serviços.
 
