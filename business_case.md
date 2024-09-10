@@ -1,4 +1,6 @@
-**Formalização da Decisão Estratégica e Justificativa para o Uso do Business Case**
+### Business Case para a Tupi Finance S/A
+
+#### **Formalização da Decisão Estratégica e Justificativa para o Uso do Business Case**
 
 A Tupi Finance S/A, em seu compromisso contínuo com a inovação e excelência no setor de serviços financeiros digitais, optou por manter a licença SCFI para este estágio do desenvolvimento de nossa plataforma e conta digital. Esta decisão foi tomada após uma avaliação cuidadosa das necessidades atuais do mercado, das capacidades da empresa e do cenário regulatório.
 
@@ -6,7 +8,6 @@ A manutenção da licença SCFI nos permite focar em aprimorar nossa oferta atua
 
 Uma mudança para uma licença mais abrangente, que significaria uma revisão significativa da nossa operação e estratégia de mercado, exigiria um Business Plan. Esse documento abrangeria a redefinição completa da estratégia empresarial e a reavaliação de todas as operações e ofertas de mercado. No entanto, nesta fase, focaremos em otimizar e expandir dentro dos parâmetros da licença SCFI, assegurando que maximizamos o valor para nossos clientes e stakeholders sem comprometer a agilidade e eficiência operacional.
 
-### Business Case para a Tupi Finance S/A
 #### 1. Introdução e Contexto
 
 **Objetivo do Projeto:**  
