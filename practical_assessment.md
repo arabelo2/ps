@@ -427,7 +427,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
    - **Account Reconciliation**: Conciliação de contas para ajustes financeiros.
    - **Servicing Order**: Execução de ordens de serviço relacionadas à manutenção e fechamento de contas.
 
-4. **Segurança e Conformidade (Security and Compliance)**
+4. **Gestão de Identidade, Fraude e Risco (Identity, Fraud and Risk Management)**
 - Domínios de Serviço:
    - **Fraud Detection**: Detecção e prevenção de fraudes em transações.
    - **Party Authentication**: Processos de autenticação segura para acesso a contas.
@@ -465,7 +465,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
    - **Issued Device Administration**: Gestão de cartões de crédito e débito.
    - **Cash Management and Account Services**: Gerenciamento de serviços de contas e operações de caixa.
 
-4. **Segurança e Conformidade (Security and Compliance)**
+4. **Gestão de Identidade, Fraude e Risco (Identity, Fraud and Risk Management)**
 - Domínios de Serviço:
    - **Fraud Detection**: Monitoramento e detecção de fraudes.
    - **Party Authentication**: Processos de autenticação segura.
@@ -489,7 +489,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 1. **Gestão de Cliente**  
   → **Gestão de Produtos e Pagamento**  
   → **Gestão de Tarefas, Financeira e Movimentação de Dinheiro**  
-  → **Segurança e Conformidade**  
+  → **Gestão de Identidade, Fraude e Risco**  
   → **Integração com Outros Produtos (Tupi Card, Tupi Empréstimos, Outros)**  
   → **Gestão de Operações e Serviços**  
 
@@ -498,7 +498,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 1. **Gestão de Cliente**  
   → **Gestão de Produtos Bancários**  
   → **Gestão de Tarefas, Financeira e Movimentação de Dinheiro**  
-  → **Segurança e Conformidade**  
+  → **Gestão de Identidade, Fraude e Risco**  
   → **Integração com Outros Produtos (Tupi Card, Tupi Empréstimos, Outros)**  
   → **Gestão de Dados e Conformidade**  
   → **Gestão de Operações e Serviços**  
