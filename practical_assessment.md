@@ -338,7 +338,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 4. **Financial Compliance**
 - Garantir a conformidade contínua com regulamentações e normas aplicáveis (ex.: KYC, PLD/FT).
 
-5. **Servicing Order Execution**
+5. **Servicing Order**
 - Execução do processo de fechamento de conta, incluindo o cancelamento de serviços vinculados e envio de confirmação ao cliente.
 
 ### **Mapeamento dos Service Domains BIAN - Opção Banco Múltiplo ou Comercial**
@@ -397,7 +397,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 4. **Financial Compliance**
 - Verificação e validação de conformidade regulatória durante o ciclo de vida da conta e especialmente ao seu encerramento.
 
-5. **Servicing Order Execution**
+5. **Servicing Order**
 - Execução de ordens de serviço para fechamento de conta, encerramento de produtos e serviços, e emissão de documentação final para o cliente.
 
 ### **Conclusão e Interoperabilidade:**
@@ -425,7 +425,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 - Domínios de Serviço:
    - **Cash Management and Account Services**: Operações de contas, incluindo saldos, extratos, saques e depósitos.
    - **Account Reconciliation**: Conciliação de contas para ajustes financeiros.
-   - **Servicing Order Execution**: Execução de ordens de serviço relacionadas à manutenção e fechamento de contas.
+   - **Servicing Order**: Execução de ordens de serviço relacionadas à manutenção e fechamento de contas.
 
 4. **Segurança e Conformidade (Security and Compliance)**
 - Domínios de Serviço:
