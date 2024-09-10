@@ -488,7 +488,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 1. **Gestão de Relacionamento com o Cliente**  
   → **Gestão de Produtos e Pagamento**  
-  → **Gerenciamento de Contas e Transações**  
+  → **Gestão de Tarefas, Financeira e Movimentação de Dinheiro**  
   → **Segurança e Conformidade**  
   → **Integração com Outros Produtos (Tupi Card, Tupi Empréstimos, Outros)**  
   → **Gestão de Operações e Serviços**  
@@ -497,7 +497,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 1. **Gestão de Relacionamento com o Cliente**  
   → **Gestão de Produtos Bancários**  
-  → **Gerenciamento de Contas e Transações**  
+  → **Gestão de Tarefas, Financeira e Movimentação de Dinheiro**  
   → **Segurança e Conformidade**  
   → **Integração com Outros Produtos (Tupi Card, Tupi Empréstimos, Outros)**  
   → **Gestão de Dados e Conformidade**  
