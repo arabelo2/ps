@@ -97,7 +97,7 @@ Adotar essa separação clara entre a "conta digital" como produto bancário e a
 ### Conclusão
 Adotar essa abordagem dupla — separação técnica clara na arquitetura interna e comunicação externa unificada — é uma prática recomendada. Ela garante a robustez e flexibilidade da solução, enquanto facilita a comunicação estratégica. Além disso, assegurar que todos os níveis da organização compreendam essa distinção técnica ajuda a evitar problemas futuros e mantém o alinhamento em todas as fases do projeto.
 
-### **TOGAF - Fase Preliminar **
+### **TOGAF - Fase Preliminar**
 
 #### **1. Estabelecimento da Capacidade de Arquitetura**
 
