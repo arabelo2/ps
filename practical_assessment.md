@@ -408,7 +408,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 ##### **Capacidades Principais:**
 
-1. **Gestão de Relacionamento com o Cliente (Customer Relationship Management)**
+1. **Gestão de Cliente (Customer Management)**
 - Domínios de Serviço:
    - **Party Reference Data Directory**: Gerenciamento de dados cadastrais e informações do cliente, incluindo conformidade com **LGPD**.
    - **Customer Relationship Management**: Suporte contínuo ao cliente e manutenção do relacionamento.
@@ -444,7 +444,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 ##### **Capacidades Principais:**
 
-1. **Gestão de Relacionamento com o Cliente (Customer Relationship Management)**
+1. **Gestão de Cliente (Customer Management)**
 - Domínios de Serviço:
    - **Party Reference Data Directory**: Coleta e gerenciamento de dados dos clientes, incluindo conformidade com **LGPD**.
    - **Customer Relationship Management**: Gerenciamento de suporte ao cliente e manutenção de relacionamento.
@@ -486,7 +486,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 #### **SCFI - Sociedade de Crédito, Financiamento e Investimento:**
 
-1. **Gestão de Relacionamento com o Cliente**  
+1. **Gestão de Cliente**  
   → **Gestão de Produtos e Pagamento**  
   → **Gestão de Tarefas, Financeira e Movimentação de Dinheiro**  
   → **Segurança e Conformidade**  
@@ -495,7 +495,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 #### **Banco Múltiplo ou Banco Comercial:**
 
-1. **Gestão de Relacionamento com o Cliente**  
+1. **Gestão de Cliente**  
   → **Gestão de Produtos Bancários**  
   → **Gestão de Tarefas, Financeira e Movimentação de Dinheiro**  
   → **Segurança e Conformidade**  
@@ -624,7 +624,7 @@ A decisão de manter a licença SCFI é apropriada se a Tupi Finance S/A busca u
 - **Visão Geral:**
    - **Objetivo:** Desenvolver uma arquitetura que suporte a inovação em produtos financeiros digitais sob a licença SCFI, focando em eficiência, segurança, e experiência superior do usuário.
 
-- **Gestão de Relacionamento com o Cliente:**
+- **Gestão de Cliente:**
    - **Capacidades:** Atendimento ao cliente, gestão de feedback, personalização de serviços.
    - **BIAN Service Domains:** Customer Offer Management and Agreement, Customer Relationship Management.
 
