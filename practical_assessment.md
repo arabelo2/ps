@@ -482,7 +482,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 - **Core Banking Integration:**
    - Ambos os cenários (SCFI e Banco Múltiplo ou Comercial) dependem de uma integração robusta com um sistema de core banking para gerenciar operações fundamentais, como abertura de contas, processamento de transações, conformidade regulatória, e integração com produtos como cartões e empréstimos.
 
-### **Atualização da Visão Funcional da Cadeia de Valor:**
+### **Visão Funcional da Cadeia de Valor (REVISAR):**
 
 #### **SCFI - Sociedade de Crédito, Financiamento e Investimento:**
 
@@ -505,7 +505,8 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 
 ### **Conclusão:**
 
-A atualização inclui todas as capacidades de negócios e os pontos críticos de integração, abordando os métodos de transferência (TED, PIX), conformidade com a LGPD, e prevenção de fraudes, bem como a dependência do core banking. Essa abordagem garante que a estrutura permaneça flexível e pronta para futuras expansões, mantendo-se alinhada com os princípios do BIAN e as regulamentações aplicáveis.
+Inclui as capacidades de negócios e os pontos críticos de integração, abordando os métodos de transferência (TED, PIX), conformidade com a LGPD, e prevenção de fraudes, bem como a dependência do core banking. Essa abordagem garante que a estrutura permaneça flexível e pronta para futuras expansões, mantendo-se alinhada com os princípios do BIAN e as regulamentações aplicáveis.
+
 A aprovação do "Statement of Architecture Work" deve incluir a decisão sobre qual licença a empresa seguirá. Sem essa decisão, o escopo e o direcionamento do trabalho arquitetural permaneceriam indefinidos, o que inviabilizaria a progressão eficaz para as fases subsequentes do TOGAF.
 
 ### **Riscos da Decisão de Manter a Licença SCFI:** 
