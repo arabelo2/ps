@@ -319,7 +319,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 3. **Cash Management and Account Services**
 - Gerenciamento de serviços de conta (saldo, extratos) e operações de caixa, como saques e depósitos.
    
-4. **Authentication**
+4. **Party Authentication**
 - Implementação de autenticação segura e multifatorial para acesso e movimentação de contas.
 
 5. **Security Monitoring**
@@ -378,7 +378,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 6. **Customer Billing and Payments**
 - Gerenciamento de cobrança e pagamentos associados a produtos e serviços do cliente.
 
-7. **Authentication**
+7. **Party Authentication**
 - Autenticação segura de clientes e acesso às suas contas e serviços.
 
 8. **Security Monitoring**
@@ -430,7 +430,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 4. **Segurança e Conformidade (Security and Compliance)**
 - Domínios de Serviço:
    - **Fraud Detection**: Detecção e prevenção de fraudes em transações.
-   - **Authentication**: Processos de autenticação segura para acesso a contas.
+   - **Party Authentication**: Processos de autenticação segura para acesso a contas.
    - **Security Monitoring**: Monitoramento contínuo de segurança.
    - **Financial Compliance**: Conformidade com as regulamentações do Banco Central e proteção de dados (LGPD).
 
@@ -468,7 +468,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 4. **Segurança e Conformidade (Security and Compliance)**
 - Domínios de Serviço:
    - **Fraud Detection**: Monitoramento e detecção de fraudes.
-   - **Authentication**: Processos de autenticação segura.
+   - **Party Authentication**: Processos de autenticação segura.
    - **Security Monitoring**: Supervisão contínua de segurança.
    - **Financial Compliance**: Conformidade com regulamentações bancárias e proteção de dados (LGPD).
 
