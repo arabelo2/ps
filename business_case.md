@@ -147,7 +147,49 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 - **Concorrência de Mercado:** Surgimento de novas tecnologias ou plataformas concorrentes. **Mitigação:** Continuar inovando e diferenciando a plataforma no mercado.
 - **Churn Rate:** Risco de desistência dos usuários após a adoção inicial. **Mitigação:** Desenvolver um programa robusto de fidelidade e retenção.
 
-### 7. Análise de ROI
+### 7. Análise SWOT:
+
+#### **Forças**
+1. **Tecnologia Avançada:**
+   - A plataforma utiliza tecnologias modernas e escaláveis, proporcionando uma base sólida para inovação e crescimento contínuo.
+   - Diferenciação técnica clara entre os aspectos da plataforma e da conta digital, permitindo especialização e otimização.
+
+2. **Experiência do Usuário:**
+   - Interface intuitiva e recursos avançados de UX/UI que melhoram a satisfação e a retenção do cliente.
+   - Funcionalidades específicas para a conta digital, como gestão facilitada de finanças pessoais e transações seguras.
+
+3. **Parcerias Estratégicas:**
+   - Colaborações com líderes tecnológicos como Salesforce e Google Cloud para reforçar a infraestrutura e oferecer inovações de ponta.
+
+#### **Fraquezas**
+1. **Complexidade de Integração:**
+   - Desafios na integração de sistemas legados com a nova plataforma, particularmente para a funcionalidade de conta digital.
+   - Dependência de terceiros para algumas funcionalidades críticas, como processamento de pagamento e segurança.
+
+2. **Recursos Limitados:**
+   - Restrições orçamentárias que podem limitar a capacidade de expandir rapidamente ou adaptar-se a mudanças de mercado.
+   - Dependência de recursos externos para desenvolvimento e manutenção pode afetar a agilidade.
+3. **Processos Internos de Procurement:**
+   - Demoras na cotação e aprovação de fornecedores que podem impactar o cronograma de lançamento.
+
+#### **Oportunidades**
+1. **Crescimento do Mercado de Fintech:**
+   - Expansão contínua do mercado de serviços financeiros digitais, oferecendo oportunidades para inovação e captação de novos clientes.
+   - Potencial para explorar nichos de mercado não atendidos com soluções específicas para contas digitais.
+
+2. **Regulamentações Favoráveis:**
+   - Mudanças nas regulamentações financeiras que favorecem operações digitais, permitindo maior flexibilidade e inovação nos serviços oferecidos.
+
+#### **Ameaças**
+1. **Concorrência Intensa:**
+   - Mercado competitivo com entrantes rápidos e estabelecidos, como Nubank e Inter, que dominam o setor de contas digitais.
+   - Risco de imitação de características inovadoras por concorrentes.
+
+2. **Riscos de Segurança Cibernética:**
+   - Ameaças crescentes em segurança cibernética que exigem investimentos contínuos e vigilância.
+   - Possíveis violações de dados que podem comprometer a confiança do cliente e a integridade da plataforma.
+
+### 8. Análise de ROI
 
 **Custos Iniciais e Recorrentes:**
 - **Investimento Inicial (CAPEX):** R$ 46,5 milhões para desenvolvimento de software, aquisição de hardware, e configuração da infraestrutura inicial.
@@ -185,7 +227,7 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 **Discussão:**
 Esta análise detalhada de ROI integra todos os elementos financeiros necessários para avaliar a viabilidade do projeto. Utilizando uma abordagem conservadora para ARPU e incorporando riscos financeiros como fraude e inadimplência, a projeção mostra um desafio significativo para alcançar um retorno positivo no curto prazo. A inclusão do VPL oferece uma perspectiva de longo prazo, crucial para decisões estratégicas sobre o projeto.
 
-### 8. Plano de Implementação
+### 9. Plano de Implementação
 
 **Objetivo:**
 Desenvolver e lançar a plataforma de conta digital da Tupi Finance S/A dentro de um cronograma de 6 meses, abordando proativamente os riscos associados ao envolvimento de múltiplos fornecedores e à integração de sistemas complexos.
