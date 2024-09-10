@@ -419,7 +419,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
    - **Product Directory**: Definição e configuração dos produtos de pagamento.
    - **Payment Order**: Processamento de ordens de pagamento (TED, PIX, boletos).
    - **Issued Device Administration**: Gestão de cartões de pagamento (débito, pré-pagos).
-   - **LGPD Compliance**: Garantia de conformidade com os requisitos de proteção de dados.
+   - **Regulatory Compliance**: Garantia de conformidade com os requisitos de proteção de dados (LGPD).
 
 3. **Gerenciamento de Contas e Transações (Account and Transaction Management)**
 - Domínios de Serviço:
@@ -456,7 +456,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
    - **Deposit Account Operations**: Operações de contas de depósito (corrente, poupança).
    - **Credit Facility**: Oferecimento e gestão de produtos de crédito (empréstimos, financiamentos).
    - **Investment Portfolio Management**: Gestão de produtos de investimento.
-   - **LGPD Compliance**: Conformidade com proteção de dados.
+   - **Regulatory Compliance**: Conformidade com proteção de dados (LGPD).
 
 3. **Gerenciamento de Contas e Transações (Account and Transaction Management)**
 - Domínios de Serviço:
