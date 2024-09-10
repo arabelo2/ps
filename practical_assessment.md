@@ -414,7 +414,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
    - **Customer Relationship Management**: Suporte contínuo ao cliente e manutenção do relacionamento.
    - **Customer Access Entitlement**: Gestão de permissões de clientes, incluindo acesso a produtos e serviços.
 
-2. **Gestão de Produtos de Pagamento (Payment Product Management)**
+2. **Gestão de Produtos e Pagamento (Payment and Product Management)**
 - Domínios de Serviço:
    - **Product Directory**: Definição e configuração dos produtos de pagamento.
    - **Payment Order**: Processamento de ordens de pagamento (TED, PIX, boletos).
@@ -487,7 +487,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 #### **SCFI - Sociedade de Crédito, Financiamento e Investimento:**
 
 1. **Gestão de Relacionamento com o Cliente**  
-  → **Gestão de Produtos de Pagamento**  
+  → **Gestão de Produtos e Pagamento**  
   → **Gerenciamento de Contas e Transações**  
   → **Segurança e Conformidade**  
   → **Integração com Outros Produtos (Tupi Card, Tupi Empréstimos, Outros)**  
