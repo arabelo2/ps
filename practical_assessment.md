@@ -322,7 +322,7 @@ As jornadas detalhadas para SCFI e Banco Múltiplo ou Comercial, conforme regula
 4. **Party Authentication**
 - Implementação de autenticação segura e multifatorial para acesso e movimentação de contas.
 
-5. **Security Monitoring**
+5. **Financial Message Analysis**
 - Monitoramento contínuo de atividades suspeitas, detecção de fraudes e análise de riscos.
 
 #### **Jornada de Manutenção e Fechamento de Conta:**
@@ -431,7 +431,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 - Domínios de Serviço:
    - **Fraud Detection**: Detecção e prevenção de fraudes em transações.
    - **Party Authentication**: Processos de autenticação segura para acesso a contas.
-   - **Security Monitoring**: Monitoramento contínuo de segurança.
+   - **Financial Message Analysis**: Monitoramento contínuo de atividades suspeitas, detecção de fraudes e análise de riscos.
    - **Financial Compliance**: Conformidade com as regulamentações do Banco Central e proteção de dados (LGPD).
 
 ##### **Pontos de Integração com Outros Produtos:**
@@ -469,7 +469,7 @@ Este mapeamento utilizando os **Service Domains BIAN** garante que todas as oper
 - Domínios de Serviço:
    - **Fraud Detection**: Monitoramento e detecção de fraudes.
    - **Party Authentication**: Processos de autenticação segura.
-   - **Security Monitoring**: Supervisão contínua de segurança.
+   - **Financial Message Analysis**: Monitoramento contínuo de atividades suspeitas, detecção de fraudes e análise de riscos.
    - **Financial Compliance**: Conformidade com regulamentações bancárias e proteção de dados (LGPD).
 
 ##### **Pontos de Integração com Outros Produtos:**
