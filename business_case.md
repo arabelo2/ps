@@ -119,11 +119,11 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
   - **Serviços Contratados:** Desenvolvimento de front-end e back-end, integração de sistemas, e suporte pós-lançamento.
   - **Custo Estimado:** R$ 8,622 milhões para o ciclo inicial do projeto. Este valor inclui design, programação, testes e implementação das integrações necessárias.
 
-**Aquisição de Tecnologia e Infraestrutura de Cloud:**
+**Aquisição de Tecnologia e Infraestrutura de Cloud Computing:**
 - **Google Cloud Platform (GCP):**
   - **Estimativa de Custos:** Baseado na utilização prevista, os custos de cloud computing são estimados em R$ 6,0 milhões anuais. Este valor cobre instâncias de computação, armazenamento de dados, serviços de rede e segurança. É importante notar que os custos podem variar significativamente com mudanças no uso, exigindo gestão atenta para evitar sobreposições.
 
-- **Licenciamento e Suporte Técnico:**
+- **Licenciamento e Suporte Técnico das Plataformas como Serviços (PaaS):**
 Custos com licenças e suporte para as seguintes plataformas e soluções somam R$ 20,0 milhões, incluindo manutenção e atualizações regulares:
     - **Salesforce:** Produtos com foco em atendimento ao cliente, marketing, inteligência artificial, gestão de comunidades, criação de aplicativos entre outras frentes;
     - **Wisecons Tecnologia:** Pix, solução para pagamentos, cobranças, QrCode, etc;
