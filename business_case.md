@@ -89,22 +89,52 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 
 **Custos de Desenvolvimento:**
 - **Contratação Direta:**
-  - **Perfis Contratados:** A equipe interna incluirá Desenvolvedores de Software Sênior, Analistas de Sistemas, Gerentes de Projeto e Especialistas em Segurança. Estima-se que o custo total para essa equipe seja de aproximadamente R$ 12 milhões por ano, detalhado como segue:
-    - **Desenvolvedores de Software Sênior:** 4 x R$ 180.000/ano cada.
-    - **Analistas de Sistemas:** 3 x R$ 150.000/ano cada.
-    - **Gerentes de Projeto:** 2 x R$ 200.000/ano cada.
-    - **Especialistas em Segurança:** 2 x R$ 220.000/ano cada.
+  - **Perfis Contratados:** A equipe interna incluirá Desenvolvedores de Software Sênior, Analistas de Sistemas, Gerentes de Projeto e Especialistas em Segurança. Estima-se que o custo total para essa equipe seja de aproximadamente R$ 6,378 milhões por semestre, detalhado como segue:
+    - **Desenvolvedores de Software Sênior:** 6 x R$ 330.000,00/semestre cada.
+      - Hourly rate: R$ 357,50
+      - Jornada de trabalho: 200 horas
+    - **Arquiteto de Software:** 2 x R$ 297.000,00/semestre cada.
+      - Hourly rate: R$ 247,50
+      - Jornada de trabalho: 200 horas
+    - **Arquiteto de Soluções:** 1 x R$ 396.000,00/semestre cada.
+      - Hourly rate: R$ 330,00
+      - Jornada de trabalho: 200 horas
+    - **Analistas de Sistemas de Informação Sênior:** 3 x R$ 317.400,00/semestre cada.
+      - Hourly rate: R$ 264,50
+      - Jornada de trabalho: 200 horas
+    - **Gerentes de Projeto:** 1 x R$ 396.000,00/semestre cada.
+      - Hourly rate: R$ 330,00
+      - Jornada de trabalho: 200 horas
+    - **Agile/Scrum Master:** 1 x R$ 396.000,00/semestre cada.
+      - Hourly rate: R$ 330,00
+      - Jornada de trabalho: 200 horas
+    - **Analista de Qualidade:** 2 x R$ 396.000,00/semestre cada.
+      - Hourly rate: R$ 330,00
+      - Jornada de trabalho: 200 horas
+    - **Analista de Segurança Sênior:** 2 x R$ 435.600,00/semestre cada.
+      - Hourly rate: R$ 363,00
+      - Jornada de trabalho: 200 horas
 
 - **Fábrica de Software:**
   - **Serviços Contratados:** Desenvolvimento de front-end e back-end, integração de sistemas, e suporte pós-lançamento.
-  - **Custo Estimado:** R$ 15 milhões para o ciclo inicial do projeto. Este valor inclui design, programação, testes e implementação das integrações necessárias.
+  - **Custo Estimado:** R$ 8,622 milhões para o ciclo inicial do projeto. Este valor inclui design, programação, testes e implementação das integrações necessárias.
 
 **Aquisição de Tecnologia e Infraestrutura de Cloud:**
 - **Google Cloud Platform (GCP):**
-  - **Estimativa de Custos:** Baseado na utilização prevista, os custos de cloud computing são estimados em R$ 6 milhões anuais. Este valor cobre instâncias de computação, armazenamento de dados, serviços de rede e segurança. É importante notar que os custos podem variar significativamente com mudanças no uso, exigindo gestão atenta para evitar sobreposições.
+  - **Estimativa de Custos:** Baseado na utilização prevista, os custos de cloud computing são estimados em R$ 6,0 milhões anuais. Este valor cobre instâncias de computação, armazenamento de dados, serviços de rede e segurança. É importante notar que os custos podem variar significativamente com mudanças no uso, exigindo gestão atenta para evitar sobreposições.
 
 - **Licenciamento e Suporte Técnico:**
-  - **Outras Tecnologias:** Custos com licenças e suporte para CRM, plataformas de análise de dados e sistemas de segurança somam aproximadamente R$ 8 milhões. Isso inclui manutenção e atualizações regulares.
+Custos com licenças e suporte para as seguintes plataformas e soluções somam R$ 20,0 milhões, incluindo manutenção e atualizações regulares:
+    - **Salesforce:** Produtos com foco em atendimento ao cliente, marketing, inteligência artificial, gestão de comunidades, criação de aplicativos entre outras frentes;
+    - **Wisecons Tecnologia:** Pix, solução para pagamentos, cobranças, QrCode, etc;
+    - **Itaú Corban:** Pagamentos de boletos e guias de arrecadação;
+    - **Tecban:** Rede independente de ATM;
+    - **Fico Falcon Fraud Manager:** Solução para detecção e prevenção de fraude financeira;
+    - **Evertec RiskCenter:** Ferramenta especializada em gerenciamento de riscos;
+    - **Softon Dtec-[XXX]:** Solução para prevenção a fraude financeira e lavagem de dinheiro;
+    - **Topaz:** Core Banking;
+    - **Matera:** Core Banking (com foco em regulatórios e pagamentos);
+    - **Outras Tecnologias:** Plataformas de análise de dados, sistemas de gerenciamento de identidade e acesso, etc.
 
 **Custos de Implementação:**
 - **Treinamento e Adaptação Organizacional:** R$ 1,5 milhão para garantir que a equipe esteja bem preparada para operar as novas tecnologias.
