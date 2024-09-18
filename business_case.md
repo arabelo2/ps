@@ -254,6 +254,17 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 **Análise de Payback Ajustada:**
 - **Período de Payback:** Calculado como o tempo necessário para que o total de benefícios cubra os custos iniciais, estimado em 3,24 anos.
 
+**Resumo das informações relevantes adotadas para o cálculo estimado:**
+- **Investimento Inicial (CAPEX)**: R$ 46,5 milhões;
+- **OPEX no 1º Ano**: R$ 9,5 milhões;
+- **Aumento de 5% ao ano no OPEX**: OPEX no 2º ano = \( 9,5 \times 1,05 = 9,975 \) milhões de R$;
+- **Número de Clientes no 1º Ano**: 100 mil clientes;
+- **Receita Média por Cliente (ARPU)**: R$ 180;
+- **Taxa de Churn**: 15%;
+- **Perdas por Fraude**: 1% da receita;
+- **Inadimplência**: 2% do crédito concedido, com recuperação de 30% das perdas;
+- **Projeção de crescimento de clientes a partir do 2º ano em diante**: Vamos supor que o número de clientes cresça 20%.
+
 **Discussão:**
 Esta análise detalhada de ROI integra todos os elementos financeiros necessários para avaliar a viabilidade do projeto. Utilizando uma abordagem conservadora para ARPU e incorporando riscos financeiros como fraude e inadimplência, a projeção mostra um desafio significativo para alcançar um retorno positivo no curto prazo. A inclusão do VPL oferece uma perspectiva de longo prazo, crucial para decisões estratégicas sobre o projeto.
 
