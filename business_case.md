@@ -123,7 +123,7 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 - **Google Cloud Platform (GCP):**
   - **Estimativa de Custos:** Baseado na utilização prevista, os custos de cloud computing são estimados em R$ 6,0 milhões anuais. Este valor cobre instâncias de computação, armazenamento de dados, serviços de rede e segurança. É importante notar que os custos podem variar significativamente com mudanças no uso, exigindo gestão atenta para evitar sobreposições.
 
-- **Licenciamento e Suporte Técnico das Plataformas como Serviços (PaaS):**
+- **Licenciamento e Suporte Técnico para Plataforma como Serviço (PaaS) e Software como Serviço SaaS:**
 Custos com licenças e suporte para as seguintes plataformas e soluções somam R$ 20,0 milhões, incluindo manutenção e atualizações regulares:
     - **Salesforce:** Produtos com foco em atendimento ao cliente, marketing, inteligência artificial, gestão de comunidades, criação de aplicativos entre outras frentes;
     - **Wisecons Tecnologia:** Pix, solução para pagamentos, cobranças, QrCode, etc;
