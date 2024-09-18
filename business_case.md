@@ -85,7 +85,7 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 - **Segurança Reforçada:** Com avançados recursos de segurança, os clientes sentirão maior confiança ao realizar transações, sabendo que suas informações financeiras estão protegidas.
 - **Personalização das Ofertas:** Utilizando tecnologia de análise de dados, a plataforma poderá oferecer produtos e serviços personalizados que atendam às necessidades individuais de cada cliente, aumentando a satisfação geral.
 
-### 5. Estimativa de Custos
+### 5. Estimativas de Custos
 
 **Custos de Desenvolvimento:**
 - **Contratação Direta:**
