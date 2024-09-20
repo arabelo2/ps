@@ -30,6 +30,17 @@
   - **Prós:** Escalabilidade imediata, facilidade de integração e menor complexidade na manutenção.
   - **Contras:** Dependência de terceiros para suporte e atualizações.
 
+### Resumo da análise de opções estratégicas:
+
+| Característica             | **ROI (Retorno sobre o Investimento)**                 | **VPL (Valor Presente Líquido)**                      |
+|----------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| **Foco**                    | Lucro gerado em relação ao custo inicial              | Valor presente dos fluxos de caixa futuros            |
+| **Considera o valor do dinheiro no tempo?** | Não                                                       | Sim                                                       |
+| **Fórmula**                 | \(\frac{{Lucro Líquido}}{{Custo do Investimento}} \times 100\) | \( \sum \frac{{Fluxo de Caixa_t}}{{(1 + r)^t}} - Investimento Inicial \) |
+| **Indicador**               | Percentual                                            | Valor monetário                                        |
+| **Simples de calcular?**    | Sim                                                   | Mais complexo                                          |
+| **Aplicação ideal**         | Comparação rápida de eficiência de projetos           | Avaliação de projetos de longo prazo com fluxos de caixa variáveis |
+
 ### Justificativas:
 
 - **Alinhamento aos Objetivos de Negócio:** A estratégia de desenvolvimento ágil e escalável atende diretamente à necessidade de lançar a conta digital em um prazo apertado de 6 meses, garantindo que a solução seja robusta e possa crescer conforme a demanda.
