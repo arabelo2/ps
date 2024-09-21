@@ -30,7 +30,7 @@
   - **Prós:** Escalabilidade imediata, facilidade de integração e menor complexidade na manutenção.
   - **Contras:** Dependência de terceiros para suporte e atualizações.
 
-### Resumo da análise de opções estratégicas: Tabela de Comparação (Make-or-Buy)
+**6. Resumo da análise de opções estratégicas: Tabela de Comparação (Make-or-Buy)**
 
    Para a análise de **make-or-buy**, esta simples tabela apresenta os prós e contras de cada abordagem.
 
@@ -49,7 +49,7 @@
 
 Esta estratégia inicial define as bases para a arquitetura de negócio e os próximos passos da Tupi Finance S/A em sua jornada de expansão digital.
 
-### **Descrição Formal do Problema que a Arquitetura Busca Resolver:**
+### Descrição Formal do Problema que a Arquitetura Busca Resolver:
 
 **Problema:**
 A Tupi Finance S/A precisa expandir seu ecossistema bancário para competir efetivamente no mercado financeiro digital. Atualmente, a empresa não possui um produto de conta digital que atenda às crescentes demandas dos clientes por serviços bancários digitais modernos, integrados e seguros. Sem essa oferta, a Tupi Finance S/A corre o risco de perder participação de mercado para concorrentes mais ágeis e digitalmente avançados, como Nubank, Inter, BTG Pactual Digital e C6 Bank.
