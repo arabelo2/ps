@@ -30,16 +30,16 @@
   - **Prós:** Escalabilidade imediata, facilidade de integração e menor complexidade na manutenção.
   - **Contras:** Dependência de terceiros para suporte e atualizações.
 
-### Resumo da análise de opções estratégicas:
+### Resumo da análise de opções estratégicas: Tabela de Comparação (Make-or-Buy)
 
-| Característica             | **ROI (Retorno sobre o Investimento)**                 | **VPL (Valor Presente Líquido)**                      |
-|----------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| **Foco**                    | Lucro gerado em relação ao custo inicial              | Valor presente dos fluxos de caixa futuros            |
-| **Considera o valor do dinheiro no tempo?** | Não                                                       | Sim                                                       |
-| **Fórmula**                 | \(\frac{{Lucro Líquido}}{{Custo do Investimento}} \times 100\) | \( \sum \frac{{Fluxo de Caixa_t}}{{(1 + r)^t}} - Investimento Inicial \) |
-| **Indicador**               | Percentual                                            | Valor monetário                                        |
-| **Simples de calcular?**    | Sim                                                   | Mais complexo                                          |
-| **Aplicação ideal**         | Comparação rápida de eficiência de projetos           | Avaliação de projetos de longo prazo com fluxos de caixa variáveis |
+   Para a análise de **make-or-buy**, esta simples tabela apresenta os prós e contras de cada abordagem.
+
+   | **Critério**           | **Make**                         | **Buy (Startup)**                     | **Plataformas como Serviço**          |
+   |------------------------|-----------------------------------|---------------------------------------|---------------------------------------|
+   | **Custo Inicial**       | Alto (desenvolvimento interno)    | Moderado (aquisição)                  | Baixo (assinatura de serviço)         |
+   | **Tempo de Implementação** | Longo (6-12 meses)               | Rápido (3-6 meses)                    | Muito Rápido (1-2 meses)              |
+   | **Escalabilidade**      | Alta, mas com custo               | Alta, conforme o crescimento da empresa | Alta, com escalabilidade automática   |
+   | **Controle**            | Total controle sobre a solução    | Menor controle                        | Dependente de terceiros               |
 
 ### Justificativas:
 
