@@ -219,6 +219,8 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
    - Ameaças crescentes em segurança cibernética que exigem investimentos contínuos e vigilância.
    - Possíveis violações de dados que podem comprometer a confiança do cliente e a integridade da plataforma.
 
+![SWOT](src/images/SWOT.png)
+
 ### 8. Análise de ROI
 
 **Custos Iniciais e Recorrentes:**
