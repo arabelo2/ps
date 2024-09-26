@@ -832,3 +832,14 @@ Como arquiteto de soluções, minha abordagem para descrever os componentes da a
 
 ### **Conclusão**
 Esta arquitetura detalhada assegura que todos os aspectos da plataforma de conta digital da Tupi Finance S/A são abordados de maneira a maximizar a eficiência, segurança e experiência do usuário. Ela permite a interoperabilidade entre diversos sistemas e parceiros, mantendo flexibilidade para adaptar-se a mudanças futuras nas demandas de negócios ou tecnologia. Esta abordagem alinhada com os service domains e business capabilities do BIAN garante uma solução robusta e escalável.
+
+#### **Gráfos**
+
+##### Representação do diagrama de arquitetura dos elementos básicos
+![Diagrama de arquitetura _1](src/images/Diagrama%20de%20arquitetura%20_1.png)
+
+##### Representação do diagrama de arquitetura da conta digital - Fase D
+![Diagrama de arquitetura _2](src/images/Diagrama%20de%20arquitetura%20_2.png)
+
+##### Representação do diagrama de arquitetura da conta digital separados por contêineres
+![Diagrama de arquitetura _3](src/images/Diagrama%20de%20arquitetura%20_3.png)
