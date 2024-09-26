@@ -280,6 +280,8 @@ Esta análise detalhada de ROI integra todos os elementos financeiros necessári
 **Objetivo:**
 Desenvolver e lançar a plataforma de conta digital da Tupi Finance S/A dentro de um cronograma de 6 meses, abordando proativamente os riscos associados ao envolvimento de múltiplos fornecedores e à integração de sistemas complexos.
 
+![Plano de Implementação](src/images/Plano%20de%20implementacao%20-%20linha%20do%20tempo.png)
+
 **1. Fases de Desenvolvimento Ajustadas para Riscos de Fornecedores:**
 - **Pesquisa e Planejamento (Mês 1):**
   - Finalização das especificações técnicas e de negócios.
