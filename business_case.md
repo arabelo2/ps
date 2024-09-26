@@ -8,7 +8,7 @@ A manutenção da licença SCFI nos permite focar em aprimorar nossa oferta atua
 
 Uma mudança para uma licença mais abrangente, que significaria uma revisão significativa da nossa operação e estratégia de mercado, exigiria um Business Plan. Esse documento abrangeria a redefinição completa da estratégia empresarial e a reavaliação de todas as operações e ofertas de mercado. No entanto, nesta fase, focaremos em otimizar e expandir dentro dos parâmetros da licença SCFI, assegurando que maximizamos o valor para nossos clientes e stakeholders sem comprometer a agilidade e eficiência operacional.
 
-#### 1. Introdução e Contexto
+### 1. Introdução e Contexto
 
 **Objetivo do Projeto:**  
 A Tupi Finance S/A busca estabelecer-se como uma líder inovadora no setor financeiro digital por meio do lançamento de uma plataforma de conta digital. Este projeto visa integrar e otimizar os serviços financeiros já oferecidos, como cartões de crédito e empréstimos, e introduzir novas funcionalidades que atendam às necessidades emergentes de nossos clientes.
@@ -86,6 +86,8 @@ A plataforma de conta digital da Tupi Finance S/A será desenvolvida com o objet
 - **Personalização das Ofertas:** Utilizando tecnologia de análise de dados, a plataforma poderá oferecer produtos e serviços personalizados que atendam às necessidades individuais de cada cliente, aumentando a satisfação geral.
 
 ### 5. Estimativas de Custos
+
+![Distribuicao dos custos estimados do projeto por categoria](src/images/Distribuicao%20dos%20custos%20estimados%20do%20projeto%20por%20categoria.png)
 
 **Custos de Desenvolvimento:**
 - **Contratação Direta:**
@@ -280,7 +282,7 @@ Esta análise detalhada de ROI integra todos os elementos financeiros necessári
 **Objetivo:**
 Desenvolver e lançar a plataforma de conta digital da Tupi Finance S/A dentro de um cronograma de 6 meses, abordando proativamente os riscos associados ao envolvimento de múltiplos fornecedores e à integração de sistemas complexos.
 
-![Plano de Implementação](src/images/Plano%20de%20implementacao%20-%20linha%20do%20tempo.png)
+![Plano de Implementacao](src/images/Plano%20de%20implementacao%20-%20linha%20do%20tempo.png)
 
 **1. Fases de Desenvolvimento Ajustadas para Riscos de Fornecedores:**
 - **Pesquisa e Planejamento (Mês 1):**
