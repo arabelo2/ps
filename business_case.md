@@ -223,6 +223,8 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 
 ### 8. Análise de ROI
 
+![ROI](src/images/ROI.png)
+
 **Custos Iniciais e Recorrentes:**
 - **Investimento Inicial (CAPEX):** R$ 46,5 milhões para desenvolvimento de software, aquisição de hardware, e configuração da infraestrutura inicial.
 - **Custos Operacionais Anuais (OPEX):** R$ 9,5 milhões, com previsão de aumento de 5% anualmente para manutenção, suporte e outras despesas operacionais.
@@ -237,6 +239,9 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 - **Inadimplência:** Previsão de 2% do crédito concedido, com recuperação de 30% das perdas (Fonte: Banco Central do Brasil e agências de cobrança).
 
 **VPL (Valor Presente Líquido):**
+
+![VPL](src/images/VPL.png)
+
 - **Fluxos de Caixa Futuros:** Projeções baseadas no crescimento do número de usuários e ARPU ajustado.
 - **Taxa de Desconto:** 10% para refletir o custo do capital.
 - **Cálculo de VPL:** Inclui todos os fluxos de caixa futuros descontados, subtraindo o investimento inicial.
