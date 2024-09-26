@@ -179,6 +179,8 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 
 ### 7. Análise SWOT:
 
+![SWOT](src/images/SWOT.png)
+
 #### **Forças**
 1. **Tecnologia Avançada:**
    - A plataforma utiliza tecnologias modernas e escaláveis, proporcionando uma base sólida para inovação e crescimento contínuo.
@@ -218,8 +220,6 @@ Os custos operacionais anuais da plataforma de conta digital da Tupi Finance S/A
 2. **Riscos de Segurança Cibernética:**
    - Ameaças crescentes em segurança cibernética que exigem investimentos contínuos e vigilância.
    - Possíveis violações de dados que podem comprometer a confiança do cliente e a integridade da plataforma.
-
-![SWOT](src/images/SWOT.png)
 
 ### 8. Análise de ROI
 
